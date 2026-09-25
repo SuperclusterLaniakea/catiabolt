@@ -1,0 +1,4 @@
+# CATIA Bolt parameterized modeling tool dependencies
+# Runtime: Windows + CATIA V5-6R2022 (COM automation enabled)
+PyQt6>=6.4
+pywin32>=306
